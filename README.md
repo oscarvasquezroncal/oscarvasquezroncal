@@ -32,11 +32,9 @@
 
 ### 📈 **Estadísticas de GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarvasquezroncal&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarvasquezroncal&layout=compact&theme=radical" alt="Lenguajes más usados"/>
-</p>
-
-<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oscarvasquezroncal&theme=radical" alt="Trofeos de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarvasquezroncal&show_icons=true&count_private=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarvasquezroncal&hide=php&layout=compact&theme=radical" alt="Lenguajes más usados"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscarvasquezroncal&theme=radical" alt="Racha de contribuciones"/>
 </p>
 
