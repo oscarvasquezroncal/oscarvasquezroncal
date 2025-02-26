@@ -1,15 +1,17 @@
-<h1 align="center">A Full Stack Engineer</h1>
+<h1 align="center">Hola, Soy Oscar Alhdhair Vasquez Roncal 👋</h1>
+<h3 align="center">Full Stack Developer apasionado por la IA, la tecnología y el café frío ☕</h3>
 
-- 🏗️ I'm currently working on my **Internship Platform** project
-- 🌱 I'm currently learning **AWS & FastAPI**
-- 🖥️ All of my projects are available at [My Portfolio](https://yourportfolio.com)
-- 📝 I regularly write articles on [My Blog](https://yourportfolio.com/blog)
-- 💬 Ask me about **Next.js, TypeScript, FastAPI, PostgreSQL, Tailwind CSS**
-- 📫 How to reach me **[hello@yourportfolio.com](mailto:hello@yourportfolio.com)**
+- 🔭 Actualmente trabajando como **Full Stack Developer**
+- 🌱 Aprendiendo más sobre **AWS y FastAPI**
+- 👨‍💻 Todos mis proyectos están disponibles en [Mi Portafolio](https://oscarportafolio.vercel.app/)
+- 📝 Escribo artículos en [Mi Blog](https://oscarportafolio.vercel.app/blog)
+- 💬 Pregúntame sobre **Next.js, TypeScript, FastAPI, PostgreSQL, Tailwind CSS**
+- 📫 Contáctame en **[LinkedIn](https://www.linkedin.com/in/oscar-alhdahir-vasquez-roncal-133140281/)**
+- ⚡ Dato curioso: Amo la inteligencia artificial y solo tomo café frío ☕
 
 ---
 
-### 🚀 **Things I Code With**
+### 🚀 **Tecnologías y Herramientas**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -21,33 +23,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 **Weekly Development Breakdown**
-```text
-Total Time: 41 hrs 2 mins
-
-TypeScript       36 hrs 1 min  ████████████████████  86.80 %
-JSON              1 hr 46 min  ██  4.26 %
-JavaScript        1 hr 28 min  ██  3.54 %
-Other             28 min       ░░  1.14 %
-CSS               21 min       ░░  0.85 %
-```
-
----
-
-### 📈 **GitHub Stats**
+### 📈 **Estadísticas de GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" alt="Most Used Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarvasquezroncal&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarvasquezroncal&layout=compact&theme=radical" alt="Lenguajes más usados"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarAlhdhairVR&theme=radical" alt="Racha de contribuciones"/>
 </p>
 
 
