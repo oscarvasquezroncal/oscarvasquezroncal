@@ -7,7 +7,7 @@
 - 📝 Escribo artículos en [Mi Blog](https://oscarportafolio.vercel.app/blog)
 - 💬 Pregúntame sobre **Next.js, TypeScript, FastAPI, PostgreSQL, Tailwind CSS**
 - 📫 Contáctame en **[LinkedIn](https://www.linkedin.com/in/oscar-alhdahir-vasquez-roncal-133140281/)**
-- ⚡ Dato curioso: Amo la inteligencia artificial y solo tomo café frío ☕
+- ⚡ Dato curioso: Amo la inteligencia artificial y solo tomo café frío <img src="https://i.pinimg.com/736x/36/31/67/363167b8d2cc8b7ceb74eb977121c402.jpg" alt="HTML5" width="10" height="10"/>
 
 ---
 
