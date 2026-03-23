@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e7f,25:ee5a6f,50:bfe9ff,75:2bc0e4,100:0f2027&height=230&section=header&text=Oscar%20Alhdhair%20Vasquez%20Roncal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Developer%20%20%7C%20%20Automation%20Expert%20%20%7C%20%20Full%20Stack%20Engineer&descSize=15&descAlignY=55&descAlign=50"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=2BC0E4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=AI+%26+Machine+Learning+Engineer;MLOps+%7C+DevOps+%7C+CI%2FCD+Architect;Full+Stack+%7C+React+%7C+Next.js+%7C+Django;Odoo+ERP+%7C+Automation+%7C+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=2BC0E4&center=true&vCenter=true&repeat=true&width=800&height=45&lines=AI+%26+Machine+Learning+Engineer;MLOps+%7C+DevOps+%7C+CI%2FCD+Architect;Full+Stack+%7C+React+%7C+Next.js+%7C+Django;Odoo+ERP+%7C+Automation+%7C+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,8 +18,6 @@
 </p>
 
 </div>
-
-<br/>
 
 ```js
 const oscar = {
@@ -38,11 +36,11 @@ const oscar = {
 };
 ```
 
-<br/>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/───────────%20%20AI%20%26%20MACHINE%20LEARNING%20%20───────────-0f2027?style=for-the-badge" />
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20MACHINE%20LEARNING-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -61,7 +59,7 @@ const oscar = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/──────%20%20MLOps%20•%20DevOps%20•%20CI%2FCD%20%20──────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MLOps%20%E2%80%A2%20DevOps%20%E2%80%A2%20CI%2FCD-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -80,11 +78,11 @@ const oscar = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/──────────%20%20FULL%20STACK%20DEV%20%20──────────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Frontend-2bc0e4?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-2bc0e4?style=flat-square" />
 <br/><br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -99,7 +97,7 @@ const oscar = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/Backend-ff6e7f?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-ff6e7f?style=flat-square" />
 <br/><br/>
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00e676)
@@ -111,7 +109,7 @@ const oscar = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/Databases-7B42BC?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Databases-7B42BC?style=flat-square" />
 <br/><br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -122,7 +120,7 @@ const oscar = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/────────%20%20AUTOMATION%20%26%20ERP%20%20────────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AUTOMATION%20%26%20ERP-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -135,7 +133,7 @@ const oscar = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/──────────%20%20DESIGN%20%26%20CREATIVE%20%20──────────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DESIGN%20%26%20CREATIVE-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -147,7 +145,7 @@ const oscar = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/──────────%20%20GITHUB%20ANALYTICS%20%20──────────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GITHUB%20ANALYTICS-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
