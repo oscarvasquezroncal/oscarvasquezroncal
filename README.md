@@ -1,8 +1,9 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e7f,25:ee5a6f,50:bfe9ff,75:2bc0e4,100:0f2027&height=230&section=header&text=Oscar%20Alhdhair%20Vasquez%20Roncal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=%E2%9A%A1%20AI%20Developer%20%20%7C%20%20%F0%9F%A4%96%20Automation%20Expert%20%20%7C%20%20%F0%9F%92%8E%20Full%20Stack%20Engineer&descSize=15&descAlignY=55&descAlign=50"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6e7f,25:ee5a6f,50:bfe9ff,75:2bc0e4,100:0f2027&height=230&section=header&text=Oscar%20Alhdhair%20Vasquez%20Roncal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Developer%20%20%7C%20%20Automation%20Expert%20%20%7C%20%20Full%20Stack%20Engineer&descSize=15&descAlignY=55&descAlign=50"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=2BC0E4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%F0%9F%A7%A0+AI+%26+Machine+Learning+Engineer;%E2%9A%99%EF%B8%8F+MLOps+%7C+DevOps+%7C+CI%2FCD+Architect;%F0%9F%94%A5+Full+Stack+%7C+React+%7C+Next.js+%7C+Django;%F0%9F%A4%96+Odoo+ERP+%7C+Automation+%7C+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=2BC0E4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=AI+%26+Machine+Learning+Engineer;MLOps+%7C+DevOps+%7C+CI%2FCD+Architect;Full+Stack+%7C+React+%7C+Next.js+%7C+Django;Odoo+ERP+%7C+Automation+%7C+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,18 +14,19 @@
   <a href="mailto:oscarvasquezroncal@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JEANK12&label=Visitors&color=2bc0e4&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=oscarvasquezroncal&label=Visitors&color=2bc0e4&style=for-the-badge" alt="Profile views"/>
 </p>
 
 </div>
-## ⚡ About Me
+
+<br/>
 
 ```js
 const oscar = {
     role: "AI Software Engineer & Full Stack Developer",
-    location: "Peru 🇵🇪",
+    location: "Peru",
     currentWork: "Full Stack AI Developer",
-    
+
     expertise: {
         ai:         ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "LLMs"],
         automation: ["Odoo ERP", "CI/CD Pipelines", "Web Scraping", "Workflow Automation"],
@@ -32,14 +34,15 @@ const oscar = {
         devops:     ["Docker", "Kubernetes", "GitHub Actions", "Cloud Deploy"],
     },
 
-    motto: "La IA no reemplaza al ingeniero, lo potencia. 🚀"
+    motto: "La IA no reemplaza al ingeniero, lo potencia."
 };
 ```
 
----
+<br/>
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/───────────%20%20🧠%20AI%20%26%20MACHINE%20LEARNING%20%20───────────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/───────────%20%20AI%20%26%20MACHINE%20LEARNING%20%20───────────-0f2027?style=for-the-badge" />
 
 <br/><br/>
 
@@ -56,12 +59,9 @@ const oscar = {
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
-</div>
+<br/><br/>
 
----
-<div align="center">
-
-<img src="https://img.shields.io/badge/──────%20%20⚙️%20MLOps%20•%20DevOps%20•%20CI%2FCD%20%20──────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/──────%20%20MLOps%20•%20DevOps%20•%20CI%2FCD%20%20──────-0f2027?style=for-the-badge" />
 
 <br/><br/>
 
@@ -78,16 +78,15 @@ const oscar = {
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+<br/><br/>
 
----
-<div align="center">
-
-<img src="https://img.shields.io/badge/──────────%20%20🚀%20FULL%20STACK%20DEV%20%20──────────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/──────────%20%20FULL%20STACK%20DEV%20%20──────────-0f2027?style=for-the-badge" />
 
 <br/><br/>
 
-#### 🎨 Frontend
+<img src="https://img.shields.io/badge/Frontend-2bc0e4?style=flat-square&logoColor=white" />
+<br/><br/>
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -98,7 +97,11 @@ const oscar = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-#### 🔧 Backend
+<br/>
+
+<img src="https://img.shields.io/badge/Backend-ff6e7f?style=flat-square&logoColor=white" />
+<br/><br/>
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=00e676)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -106,19 +109,20 @@ const oscar = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-#### 🗄️ Databases
+<br/>
+
+<img src="https://img.shields.io/badge/Databases-7B42BC?style=flat-square&logoColor=white" />
+<br/><br/>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-</div>
+<br/><br/>
 
----
-<div align="center">
-
-<img src="https://img.shields.io/badge/────────%20%20🤖%20AUTOMATION%20%26%20ERP%20%20────────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/────────%20%20AUTOMATION%20%26%20ERP%20%20────────-0f2027?style=for-the-badge" />
 
 <br/><br/>
 
@@ -129,12 +133,9 @@ const oscar = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA_Bots-0066FF?style=for-the-badge&logo=probot&logoColor=white)
 
-</div>
+<br/><br/>
 
----
-<div align="center">
-
-<img src="https://img.shields.io/badge/──────────%20%20🎨%20DESIGN%20%26%20CREATIVE%20%20──────────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/──────────%20%20DESIGN%20%26%20CREATIVE%20%20──────────-0f2027?style=for-the-badge" />
 
 <br/><br/>
 
@@ -144,33 +145,25 @@ const oscar = {
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
-</div>
+<br/><br/>
 
----
-<div align="center">
-
-<img src="https://img.shields.io/badge/──────────%20%20📊%20GITHUB%20ANALYTICS%20%20──────────-0f2027?style=for-the-badge" />
+<img src="https://img.shields.io/badge/──────────%20%20GITHUB%20ANALYTICS%20%20──────────-0f2027?style=for-the-badge" />
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JEANK12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2bc0e4&icon_color=ff6e7f&text_color=c9d1d9&ring_color=2bc0e4" alt="GitHub Stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=oscarvasquezroncal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2bc0e4&icon_color=ff6e7f&text_color=c9d1d9&ring_color=2bc0e4" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEANK12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2bc0e4&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarvasquezroncal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2bc0e4&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JEANK12&theme=tokyonight&hide_border=true&background=0d1117&stroke=2bc0e4&ring=ff6e7f&fire=ff6e7f&currStreakLabel=2bc0e4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=2bc0e4&sideNums=2bc0e4" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oscarvasquezroncal&theme=tokyonight&hide_border=true&background=0d1117&stroke=2bc0e4&ring=ff6e7f&fire=ff6e7f&currStreakLabel=2bc0e4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=2bc0e4&sideNums=2bc0e4" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEANK12&bg_color=0d1117&color=2bc0e4&line=ff6e7f&point=2bc0e4&area_color=2bc0e4&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oscarvasquezroncal&bg_color=0d1117&color=2bc0e4&line=ff6e7f&point=2bc0e4&area_color=2bc0e4&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
-</div>
-
----
-<div align="center">
-
-<br/>
+<br/><br/>
 
 ```
  ██████╗ ███████╗ ██████╗ █████╗ ██████╗     ██╗   ██╗ █████╗ ███████╗ ██████╗ ██╗   ██╗███████╗███████╗
@@ -181,7 +174,7 @@ const oscar = {
  ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝      ╚═══╝  ╚═╝  ╚═╝╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚══════╝╚══════╝
 ```
 
-### 💡 *"La IA no reemplaza al ingeniero, lo potencia."*
+*"La IA no reemplaza al ingeniero, lo potencia."*
 
 <br/>
 
